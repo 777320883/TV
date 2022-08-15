@@ -1,0 +1,2136 @@
+央视频道,#genre#
+CCTV1,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV1,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8?$移动超清1080P
+CCTV1,http://39.134.193.100:6610/030000001001/hdcctv01/1.m3u8?
+CCTV1,http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV1,http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?$移动超清1080P
+CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
+CCTV2,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8?$移动超清1080P
+CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV2,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
+CCTV3,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV3,http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8?$移动高清720P
+CCTV3,http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8?$移动蓝光1080P
+CCTV3,http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV3,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8?$移动超清1080P
+CCTV3,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226726/10000100000000060000000006489752_0.smil
+CCTV4,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV4,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8?$移动超清1080P
+CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV4,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
+CCTV5,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV5,http://117.148.129.8/PLTV/88888888/224/3221233115/index.m3u8?$咪咕移动1080P
+CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8?$移动超清1080P
+CCTV5,http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$移动超清1080P
+CCTV5,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
+CCTV5+,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?$移动超清1080P
+CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$移动高清720P
+CCTV5+,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
+CCTV6,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV6,http://111.20.33.93:80/PLTV/88888893/224/3221226011/index.m3u8?$移动高清1080P
+CCTV6,http://111.20.35.103:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV6,http://117.148.129.8/PLTV/88888888/224/3221231724/index.m3u8?$咪咕移动1080P
+CCTV6,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226728/10000100000000060000000006489754_0.smil
+CCTV7,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV7,http://111.20.33.93/TVOD/88888893/224/3221226192/index.m3u8?$移动超清1080P
+CCTV7,http://111.20.35.103:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV7,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226531/10000100000000060000000000499224_0.smil
+CCTV8,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV8,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8?$移动高清720P
+CCTV8,http://39.134.193.100:6610/030000001001/cctv-8/1.m3u8?$移动超清1080P
+CCTV8,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV8,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8?$移动超清1080P
+CCTV8,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226730/10000100000000060000000006489755_0.smil
+CCTV9,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV9,http://111.20.35.103:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV9,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8?$移动高清720P
+CCTV9,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226588/10000100000000060000000000499231_0.smil
+CCTV10,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV10,http://111.20.33.93/TVOD/88888893/224/3221226189/index.m3u8?$移动超清1080P
+CCTV10,http://111.20.35.103:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV10,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226586/10000100000000060000000000499225_0.smil
+CCTV11,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8?$移动超清1080P
+CCTV11,http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8?$移动超清1080P
+CCTV11,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226727/10000100000000060000000006519577_0.smil
+CCTV12,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV12,http://111.20.35.103:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV12,http://111.20.33.93/TVOD/88888893/224/3221226190/index.m3u8?$移动超清1080P
+CCTV12,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226533/10000100000000060000000000499226_0.smil
+CCTV13,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV13,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8?$移动高清720P
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8?$移动超清1080P
+CCTV13,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226691/10000100000000060000000006385281_0.smil
+CCTV14,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?Contentid=1000000001000008170&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV14,http://111.20.35.103:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV14,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil
+CCTV15,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?$移动高清720P
+CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8?$移动超清1080P
+CCTV15,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226744/10000100000000060000000006519578_0.smil
+CCTV16,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls$4K
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?$全网蓝光1080P
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?$移动蓝光1080P
+CCTV16,http://111.20.33.93/TVOD/88888893/224/3221226921/index.m3u8?$移动超清1080P
+CCTV16,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226747/10000100000000060000000006758792_0.smil
+CCTV17,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive&PLTV
+CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$移动超清1080P
+CCTV17,http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8?$移动超清1080P
+CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$移动超清1080P
+CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8?$移动超清1080P
+CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?
+CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?
+冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+4k超高清,https://p.ggiptv.com/v/4k.m3u8
+4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+欢笑剧场4k,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+影院4k,http://epg.112114.xyz/douyu/9249162
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN纪录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN西班牙语,http://39.136.48.18:8089/PLTV/88888888/224/3221226324/index.m3u8
+CGTN西班牙语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN法语,http://39.136.48.18:8089/PLTV/88888888/224/3221226399/index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN阿拉伯语,https://livear.cgtn.com/200a/prog_index.m3u8
+CGTN阿拉伯语,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+CCTV第一剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
+CCTV怀旧剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
+CCTV风云剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
+CCTV风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+CCTV风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+CCTV风云音乐,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
+CCTV风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+CCTV女性时尚,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
+CCTV女性时尚,http://111.20.33.93/PLTV/88888893/224/3221226237/index.m3u8
+CCTV风云足球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
+CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+CCTV央视文化精品,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
+CCTV央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+CCTV兵器科技,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+CCTV兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+CCTV央视台球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
+CCTV世界地理,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
+CCTV世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+CCTV电视指南,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
+
+卫视频道,#genre#
+北京卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+北京卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+北京卫视,http://111.20.33.93/PLTV/88888893/224/3221226222/index.m3u8
+东方卫视,http://111.20.33.93/PLTV/88888893/224/3221226217/index.m3u8
+东方卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8?
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
+东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+东南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+东南卫视,http://140.207.241.3:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
+东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+广东卫视,http://111.20.33.93/PLTV/88888893/224/3221226216/index.m3u8
+广东卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8?
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+广东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
+广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
+贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+贵州卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+贵州卫视,http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
+贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+河北卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8?fmt=ts2hls
+河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+黑龙江卫视,http://111.20.33.93/PLTV/88888893/224/3221226215/index.m3u8
+黑龙江卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8?
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+黑龙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
+湖北卫视,http://111.20.33.93/PLTV/88888893/224/3221226194/index.m3u8
+湖北卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240135_1/encoder/0/playlist.m3u8?
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://117.169.120.140:8080/live/hdhubeistv/.m3u8
+湖南卫视,http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
+湖南卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+江苏卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8?
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+江苏卫视,http://183.207.255.197/live/program/live/jswshd/2300000/mnf.m3u8
+江苏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
+江苏卫视,http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+江西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+江西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
+辽宁卫视,http://111.20.33.93/PLTV/88888893/224/3221226210/index.m3u8
+辽宁卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8?
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+辽宁卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+山东卫视,http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视,http://39.136.48.19:8089/PLTV/88888888/224/3221226144/index.m3u8
+山东卫视,http://39.136.48.21:8089/PLTV/88888888/224/3221226144/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+深圳卫视,http://111.20.33.93/PLTV/88888893/224/3221226205/index.m3u8
+深圳卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8?
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
+深圳卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+天津卫视,http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
+天津卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8?
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+天津卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
+浙江卫视,http://111.20.33.93/PLTV/88888893/224/3221226199/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+浙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
+浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+重庆卫视,http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+重庆卫视,http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+安徽卫视,http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
+安徽卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8?
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+安徽卫视,http://183.207.255.197/live/program/live/ahwshd/2300000/mnf.m3u8
+安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+安徽卫视,http://39.135.34.144:8080/000000001000/1000000001000020780/index.m3u8?test/PLTV/=02
+安徽卫视,http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+北京纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+甘肃卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+广西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+吉林卫视,http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+龙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+内蒙古卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
+内蒙古卫视,http://117.169.120.140:8080/live/neimenggustv/.m3u8
+内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+宁夏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+宁夏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+青海卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+青海卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+山西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
+陕西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+上海纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+四川卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+四川卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+西藏卫视,http://117.169.120.140:8080/live/xizangstv/.m3u8
+西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+新疆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
+新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+新疆卫视,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+云南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+河南卫视,http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+河南卫视4K,http://218.29.135.2:4000/udp/225.1.4.254:1300$4K(测试)
+河南卫视4K,http://xingyang.net.cn:4000/udp/225.1.4.254:1300$4K(测试)
+福建卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+旅游卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
+西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+山东教育卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
+安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
+中国教育1,http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
+中国教育2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
+港澳台,#genre#
+凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://120.84.96.222:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.221:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.196:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.224:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.225:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.75:808/hls/25/index.m3u8
+翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+明珠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
+明珠台,http://120.84.96.222:808/hls/26/index.m3u8
+明珠台,http://120.84.96.221:808/hls/26/index.m3u8
+明珠台,http://120.84.96.196:808/hls/26/index.m3u8
+明珠台,http://120.84.96.195:808/hls/26/index.m3u8
+明珠台,http://120.84.96.224:808/hls/26/index.m3u8
+明珠台,http://120.84.96.225:808/hls/26/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+时装模特imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
+点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+星空卫视,http://120.84.96.75:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.75:808/hls/79/index.m3u8
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBOFamily,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
+J2,http://120.84.96.222:808/hls/86/index.m3u8
+J2,http://120.84.96.221:808/hls/86/index.m3u8
+J2,http://120.84.96.196:808/hls/86/index.m3u8
+J2,http://120.84.96.195:808/hls/86/index.m3u8
+J2,http://120.84.96.224:808/hls/86/index.m3u8
+J2,https://j3.lhlh.app/mv.m3u8
+Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:iptvcat.com
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b2500000.m3u8
+Animax,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Antv,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+Arirang,https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+Asian Food,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+Baby,https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
+Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+Baby First,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+BBC earth,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Lifestyle,https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+BBC Lifestyle,http://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+Blue Ant entertaiment,https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
+Blue Ant entertaiment,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+Blue Ant Extreme,https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
+Blue Ant Extreme,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+blueantent,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
+blueantext,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
+Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b2500000.m3u8
+Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+Boomerang,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+BRT,https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+BTV,https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+BTV,https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
+BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+BTV4,https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
+BTV9,https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+BTV9,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+CAMAU,https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8?
+CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+CBeebies,https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+Cinemax,https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+Cinemax Vit Nam,https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+CNBC,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+Da Vinci Kids Learning,https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+DANANG1,https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8?
+DAVINCI,https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
+Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+DN1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+DN2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+DONGNAI1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8?
+DreamWorks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+DTV,https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
+DW,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+DW News,https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+HAIPHONG,https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8?
+HANOI2,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8?
+HTV,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+HTV1,http://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
+KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
+KHANHHOA,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8?
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
+KIX,https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+KTV,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+LTV,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+MTV Vietnam (576p),https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+NHK World Japan,https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+NHK World Japan,https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+Outdoor,https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+PHUYEN,https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8?
+QUANGBINH,https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8?
+TAYNINH11,https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8?
+TLC,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+VTC2,https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+VTC4,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+VTC4,https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+VTC5,http://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+J2台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+无线财经资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+RTHKTV32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHKTV31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+TVB无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?
+
+NewTV,#genre#
+NewTV爱情喜剧,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
+NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级体育,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+NewTV超级综艺,http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
+NewTV潮妈辣婆,http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
+NewTV东北热剧,http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+NewTV动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
+NewTV古装剧场,http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
+NewTV欢乐剧场,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
+NewTV热播精选,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
+NewTV怡伴健康,http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
+NewTV军旅剧场,http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
+NewTV精品大剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录,http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
+NewTV精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+NewTV金牌综艺,http://39.134.65.173/PLTV/88888888/224/3221225525/1.m3u8
+NewTV军事评论,http://39.134.65.164/PLTV/88888888/224/3221225535/1.m3u8
+NewTV惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
+NewTV家庭剧场,http://39.134.65.164/PLTV/88888888/224/3221225538/1.m3u8
+NewTV精品综合,http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
+NewTV农业致富,http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
+NewTV武搏世界,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+NewTV炫舞未来,http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
+NewTV中国功夫,http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
+NewTV超级电视剧,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
+IHOT,#genre#
+爱悬疑,http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+爱悬疑,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+爱经典,http://111.40.196.39/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+爱赛车,http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+爱赛车,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+爱江湖,http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+爱体育,http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+爱探索,http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+爱探索,http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218520220430021955280745&channel-id=wasusyt&Contentid=6000000006000300630
+爱探索,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+爱奇谈,http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+爱奇谈,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+爱玩具,http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+爱玩具,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+爱世界,http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+爱怀旧,http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+爱怀旧,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+爱旅行,http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+爱旅行,http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220430022717252540&channel-id=wasusyt&Contentid=6000000006000250630
+爱极限,http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+爱极限,http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218520220430023229281091&channel-id=wasusyt&Contentid=6000000006000170630
+爱极限,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+爱解密,http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+爱解密,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+爱解密,http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218220220430022340236975&channel-id=wasusyt&Contentid=6000000006000200630
+爱幼教,http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+爱谍战,http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+爱谍战,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+爱历史,http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+爱历史,http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220430023010252646&channel-id=wasusyt&Contentid=6000000006000150630
+爱都市,http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+爱都市,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+爱猎奇,http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+爱猎奇,http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502083548453181&channel-id=wasusyt&Contentid=6000000006000190630
+爱科学,http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+爱科学,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+爱科学,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+爱美食,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502084124453818&channel-id=wasusyt&Contentid=6000000006000120630
+爱青春,http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+爱青春,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+爱时尚,http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+爱时尚,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+爱家庭,http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+爱动漫,http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+爱动漫,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+爱动漫,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+爱科幻,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+爱科幻,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+爱喜剧,http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+爱喜剧,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+爱院线,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+爱浪漫,http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+爱浪漫,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+爱娱乐,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
+
+埋堆剧场,#genre#
+埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+埋堆堆10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆11,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+埋堆堆12,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+埋堆堆16,http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+埋堆堆21,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+埋堆堆23,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+埋堆堆24,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆25,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆26,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆27,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆28,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆29,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+埋堆堆30,http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+埋堆堆32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+埋堆堆41,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+埋堆堆42,http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+埋堆堆44,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆47,http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+埋堆堆49,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+埋堆堆52,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+埋堆堆54,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+埋堆堆56,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+埋堆堆57,http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+埋堆堆61,http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
+埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
+埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+喜剧影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240276_1/playlist.m3u8?CONTENTID=00000110240276_1
+动作影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?CONTENTID=00000110240277_1
+家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?CONTENTID=00000110240278_1
+星影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240279_1/playlist.m3u8?CONTENTID=00000110240279_1
+喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+斗鱼剧场,#genre#
+斗鱼电影HD3,http://124.223.212.38:83/douyu/122402
+斗鱼电影HD4,http://124.223.212.38:83/douyu/85894
+斗鱼电影HD5,http://124.223.212.38:83/douyu/747764
+斗鱼电影HD7,http://124.223.212.38:83/douyu/20415
+斗鱼电影HD8,http://124.223.212.38:83/douyu/8663752
+斗鱼电影HD8,http://diyp.112114.xyz/douyu/8663752
+斗鱼电影HD9,http://124.223.212.38:83/douyu/323876
+斗鱼电影HD10,http://124.223.212.38:83/douyu/6140589
+斗鱼电影HD11,http://124.223.212.38:83/douyu/8770422
+斗鱼电影HD11,http://diyp.112114.xyz/douyu/8770422
+斗鱼电影HD12,http://124.223.212.38:83/douyu/2436390
+斗鱼电影HD12,http://diyp.112114.xyz/douyu/2436390
+斗鱼电影HD13,http://124.223.212.38:83/douyu/218859
+斗鱼电影HD14,http://124.223.212.38:83/douyu/36337
+斗鱼电影HD14,http://diyp.112114.xyz/douyu/36337
+斗鱼电影HD15,http://124.223.212.38:83/douyu/413573
+斗鱼电影HD15,http://diyp.112114.xyz/douyu/413573
+斗鱼电影HD16,http://124.223.212.38:83/douyu/1504768
+斗鱼电影HD17,http://124.223.212.38:83/douyu/3637726
+斗鱼电影HD18,http://124.223.212.38:83/douyu/9292492
+斗鱼电影HD22,http://124.223.212.38:83/douyu/252802
+斗鱼电影HD24,http://124.223.212.38:83/douyu/6079455
+斗鱼电影HD25,http://124.223.212.38:83/douyu/315131
+斗鱼电影HD25,http://diyp.112114.xyz/douyu/315131
+斗鱼电影HD26,http://124.223.212.38:83/douyu/8945323
+斗鱼电影HD27,http://124.223.212.38:83/douyu/2516864
+斗鱼电影HD30,http://124.223.212.38:83/douyu/4332
+斗鱼电影HD32,http://124.223.212.38:83/douyu/9651304
+斗鱼电影HD33,http://124.223.212.38:83/douyu/9650887
+斗鱼电影HD35,http://124.223.212.38:83/douyu/8814650
+斗鱼电影HD38,http://124.223.212.38:83/douyu/8985415
+斗鱼电影2,http://124.223.212.38:83/douyu/6027991
+斗鱼电影3,http://124.223.212.38:83/douyu/4105989
+斗鱼电影4,http://124.223.212.38:83/douyu/6369954
+斗鱼电影5,http://124.223.212.38:83/douyu/2793084
+斗鱼电影6,http://124.223.212.38:83/douyu/434971
+斗鱼电影7,http://124.223.212.38:83/douyu/7494871
+斗鱼电影7,http://epg.112114.xyz/douyu/3637726
+斗鱼电影8,http://124.223.212.38:83/douyu/74374
+斗鱼电影8,http://epg.112114.xyz/douyu/323876
+斗鱼电影9,http://124.223.212.38:83/douyu/4870914
+斗鱼电影10,http://124.223.212.38:83/douyu/7305938
+斗鱼电影10,http://epg.112114.xyz/douyu/2935323
+斗鱼电影11,http://124.223.212.38:83/douyu/310926
+斗鱼电影11,http://epg.112114.xyz/douyu/7459925
+斗鱼电影13,http://124.223.212.38:83/douyu/9292499
+斗鱼电影14,http://124.223.212.38:83/douyu/3637778
+斗鱼电影15,http://124.223.212.38:83/douyu/8603174
+斗鱼电影16,http://diyp.112114.xyz/douyu/96577
+斗鱼电影16,http://epg.112114.xyz/douyu/431460
+斗鱼电影17,http://124.223.212.38:83/douyu/4282654
+斗鱼电影18,http://124.223.212.38:83/douyu/338759
+斗鱼电影18,http://epg.112114.xyz/douyu/4246519
+斗鱼电影19,http://124.223.212.38:83/douyu/10011042
+斗鱼电影19,http://epg.112114.xyz/douyu/7116591
+斗鱼电影20,http://124.223.212.38:83/douyu/9275635
+斗鱼电影21,http://124.223.212.38:83/douyu/5581257
+斗鱼电影21,http://epg.112114.xyz/douyu/6776615
+斗鱼电影23,http://124.223.212.38:83/douyu/5129261
+斗鱼电影23,http://epg.112114.xyz/douyu/7494871
+斗鱼电影24,http://124.223.212.38:83/douyu/9652323
+斗鱼电影25,http://124.223.212.38:83/douyu/9826611
+斗鱼电影27,http://124.223.212.38:83/douyu/7221304
+斗鱼电影28,http://124.223.212.38:83/douyu/3990812
+斗鱼电影29,http://124.223.212.38:83/douyu/315457
+斗鱼电影30,http://124.223.212.38:83/douyu/805235
+斗鱼电影31,http://124.223.212.38:83/douyu/6655271
+斗鱼电影4K,http://124.223.212.38:83/douyu/9249162
+斗鱼电视剧HD1,http://124.223.212.38:83/douyu/2838296
+斗鱼电视剧HD2,http://124.223.212.38:83/douyu/7701735
+斗鱼电视剧HD3,http://124.223.212.38:83/douyu/7517784
+斗鱼电视剧HD4,http://124.223.212.38:83/douyu/7489563
+斗鱼电视剧HD5,http://124.223.212.38:83/douyu/6566658
+斗鱼电视剧HD6,http://124.223.212.38:83/douyu/431460
+斗鱼电视剧HD14,http://124.223.212.38:83/douyu/6706214
+斗鱼电视剧2,http://124.223.212.38:83/douyu/6899895
+斗鱼电视剧3,http://124.223.212.38:83/douyu/276200
+斗鱼电视剧5,http://124.223.212.38:83/douyu/6648727
+斗鱼电视剧6,http://124.223.212.38:83/douyu/7314294
+斗鱼电视剧7,http://124.223.212.38:83/douyu/9638983
+斗鱼电视剧8,http://124.223.212.38:83/douyu/5261342
+斗鱼电视剧9,http://124.223.212.38:83/douyu/5522351
+斗鱼电视剧10,http://124.223.212.38:83/douyu/9639508
+斗鱼电视剧11,http://124.223.212.38:83/douyu/2083382
+斗鱼电视剧12,http://124.223.212.38:83/douyu/4373285
+斗鱼电视剧13,http://124.223.212.38:83/douyu/3439096
+斗鱼电视剧14,http://124.223.212.38:83/douyu/4549169
+斗鱼电视剧15,http://124.223.212.38:83/douyu/7254536
+斗鱼电视剧16,http://124.223.212.38:83/douyu/3928
+斗鱼电视剧19,http://124.223.212.38:83/douyu/7459925
+斗鱼电视剧24,http://124.223.212.38:83/douyu/7356023
+斗鱼电影22,http://epg.112114.xyz/douyu/1979257
+斗鱼电影26,http://epg.112114.xyz/douyu/8413092
+斗鱼电影71,http://epg.112114.xyz/douyu/2987100
+斗鱼电影77,http://epg.112114.xyz/douyu/2758565
+斗鱼电影79,http://epg.112114.xyz/douyu/805235
+斗鱼电影81,http://epg.112114.xyz/douyu/3870925
+斗鱼电影94,http://epg.112114.xyz/douyu/4396972
+斗鱼电影95,http://epg.112114.xyz/douyu/4549169
+斗鱼电影97,http://epg.112114.xyz/douyu/8867878
+斗鱼电影99,http://epg.112114.xyz/douyu/7655471
+斗鱼电影105,http://epg.112114.xyz/douyu/4290711
+斗鱼电影108,http://epg.112114.xyz/douyu/6566671
+斗鱼电影111,http://epg.112114.xyz/douyu/8475821
+斗鱼电影117,http://epg.112114.xyz/douyu/338759
+斗鱼电影124,http://epg.112114.xyz/douyu/2793084
+斗鱼电影125,http://epg.112114.xyz/douyu/5067952
+斗鱼电影128,http://epg.112114.xyz/douyu/675072
+斗鱼电影129,http://epg.112114.xyz/douyu/413573
+斗鱼电影134,http://epg.112114.xyz/douyu/6725858
+斗鱼电影135,http://epg.112114.xyz/douyu/7476264
+斗鱼电影136,http://epg.112114.xyz/douyu/5689514
+斗鱼电影141,http://epg.112114.xyz/douyu/7623292
+斗鱼电影145,http://epg.112114.xyz/douyu/5033502
+斗鱼电影151,http://epg.112114.xyz/douyu/426517
+斗鱼电影153,http://epg.112114.xyz/douyu/8799435
+斗鱼电影155,http://epg.112114.xyz/douyu/4258555
+斗鱼电影165,http://epg.112114.xyz/douyu/8705754
+斗鱼电影166,http://epg.112114.xyz/douyu/5581257
+斗鱼电影169,http://epg.112114.xyz/douyu/7528160
+斗鱼电影90,http://epg.112114.xyz/douyu/6785471
+斗鱼电影92,http://epg.112114.xyz/douyu/7537296
+斗鱼电影110,http://epg.112114.xyz/douyu/8415464
+斗鱼电影113,http://epg.112114.xyz/douyu/5522351
+斗鱼电影114,http://epg.112114.xyz/douyu/562225
+斗鱼电影115,http://epg.112114.xyz/douyu/223521
+斗鱼电影116,http://epg.112114.xyz/douyu/8651489
+斗鱼电影118,http://epg.112114.xyz/douyu/4631599
+斗鱼电影120,http://epg.112114.xyz/douyu/5354713
+斗鱼电影122,http://epg.112114.xyz/douyu/3485629
+斗鱼电影130,http://epg.112114.xyz/douyu/8014467
+斗鱼电影137,http://epg.112114.xyz/douyu/1274132
+斗鱼电影143,http://epg.112114.xyz/douyu/7314294
+斗鱼电影149,http://epg.112114.xyz/douyu/6582435
+斗鱼电影150,http://epg.112114.xyz/douyu/3980787
+电影频道,#genre#
+HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+4.神乐影片1,http://epg.112114.xyz/douyu/122402
+5.神乐影片2,http://epg.112114.xyz/douyu/85894
+6.周末影院,http://epg.112114.xyz/douyu/3637765
+7.华语经典,http://epg.112114.xyz/douyu/434971
+8.特辑影院,http://epg.112114.xyz/douyu/3637778
+14.刘德华电影2,http://epg.112114.xyz/douyu/8985415
+15.喜剧经典,http://epg.112114.xyz/douyu/9650887
+16.豆瓣高分,http://epg.112114.xyz/douyu/8770422
+22.经典怀旧系列,http://epg.112114.xyz/douyu/8663752
+23.北京大蜜,http://epg.112114.xyz/douyu/805235
+26.霍格影片,http://epg.112114.xyz/douyu/8814650
+27.可乐电影,http://epg.112114.xyz/douyu/20415
+虎牙2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
+科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332
+怡寳影院,http://maomao.kandiantv.cn/douyu1.php?id=434971
+粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=6566671
+神乐影院,http://maomao.kandiantv.cn/douyu1.php?id=85894
+苹果影院,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+萌牛影院,http://maomao.kandiantv.cn/douyu1.php?id=7494871
+午夜故事,http://maomao.kandiantv.cn/douyu1.php?id=8722254
+功夫港片,http://maomao.kandiantv.cn/douyu1.php?id=3637765
+桃花影院,http://maomao.kandiantv.cn/douyu1.php?id=7305938
+贝贝影院,http://maomao.kandiantv.cn/douyu1.php?id=431460
+译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+幸运影院,http://maomao.kandiantv.cn/douyu1.php?id=7270927
+黎黎影院,http://maomao.kandiantv.cn/douyu1.php?id=7116591
+蚂蚱影院,http://maomao.kandiantv.cn/douyu1.php?id=6079455
+纪录片,http://maomao.kandiantv.cn/douyu1.php?id=4360438
+贝爷求生,http://maomao.kandiantv.cn/douyu1.php?id=454867
+野外生存,http://maomao.kandiantv.cn/douyu1.php?id=1339207
+经典港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
+鬼吹灯,http://maomao.kandiantv.cn/douyu1.php?id=9292503
+胡八一,http://maomao.kandiantv.cn/douyu1.php?id=7701735
+小宇影院,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖丧尸鬼片,http://maomao.kandiantv.cn/douyu1.php?id=263824
+表妹影院,http://maomao.kandiantv.cn/douyu1.php?id=5423
+荒野建造者,http://maomao.kandiantv.cn/douyu1.php?id=9611578
+邦德影院,http://maomao.kandiantv.cn/douyu1.php?id=9292499
+可乐影院,http://maomao.kandiantv.cn/douyu1.php?id=20415
+特辑影院,http://maomao.kandiantv.cn/douyu1.php?id=3637778
+贝爷影院,http://maomao.kandiantv.cn/douyu1.php?id=252802
+惊悚影院,http://maomao.kandiantv.cn/douyu1.php?id=96577
+港式恐怖,http://maomao.kandiantv.cn/douyu1.php?id=3637726
+漫威影片,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+漫威影片,http://epg.112114.xyz/douyu/6140589
+刘德华电影1,http://maomao.kandiantv.cn/douyu1.php?id=2516864
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+喜剧经典,http://maomao.kandiantv.cn/douyu1.php?id=9650887
+林正英电影2,http://maomao.kandiantv.cn/douyu1.php?id=7356023
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+宇哥电影,http://maomao.kandiantv.cn/douyu1.php?id=413573
+贝爷影厅2,http://maomao.kandiantv.cn/douyu1.php?id=36337
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+霍格影片,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+冰冰经典电影,http://maomao.kandiantv.cn/douyu1.php?id=74374
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+避风港影院,http://maomao.kandiantv.cn/douyu1.php?id=9826611
+避风港影院,http://epg.112114.xyz/douyu/9826611
+星星影院,http://maomao.kandiantv.cn/douyu1.php?id=315131
+漫威电影,http://maomao.kandiantv.cn/douyu1.php?id=4282654
+漫威电影,http://epg.112114.xyz/douyu/4282654
+恐怖经典,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+华语电影,http://maomao.kandiantv.cn/douyu1.php?id=3928
+华语电影,http://epg.112114.xyz/douyu/3928
+华语动作电影,http://maomao.kandiantv.cn/douyu1.php?id=1504768
+喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+带你看大片,http://maomao.kandiantv.cn/douyu1.php?id=2758565
+海绵与大星,http://maomao.kandiantv.cn/douyu1.php?id=2250349
+一起看恐怖片,http://maomao.kandiantv.cn/douyu1.php?id=9412287
+平安夜快乐,http://maomao.kandiantv.cn/douyu1.php?id=6863367
+果子哥哥,http://maomao.kandiantv.cn/douyu1.php?id=9372950
+片荒的日子,http://maomao.kandiantv.cn/douyu1.php?id=4258555
+最新视频,http://maomao.kandiantv.cn/douyu1.php?id=1557505
+大胡子魏,http://maomao.kandiantv.cn/douyu1.php?id=8792763
+童年回忆,http://maomao.kandiantv.cn/douyu1.php?id=8915074
+爆笑解说,http://maomao.kandiantv.cn/douyu1.php?id=8317926
+爆笑解说,http://maomao.kandiantv.cn/douyu1.php?id=2660125
+下饭神剧,http://maomao.kandiantv.cn/douyu1.php?id=276200
+悬疑犯罪,http://maomao.kandiantv.cn/douyu1.php?id=9171887
+看经典,http://maomao.kandiantv.cn/douyu1.php?id=7314294
+下午茶时间,http://maomao.kandiantv.cn/douyu1.php?id=7246932
+最大的大好人,http://maomao.kandiantv.cn/douyu1.php?id=7528160
+不一样的电影,http://maomao.kandiantv.cn/douyu1.php?id=2632223
+烂片的克星,http://maomao.kandiantv.cn/douyu1.php?id=9222870
+燕双鹰狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3439096
+科比、乔丹去,http://maomao.kandiantv.cn/douyu1.php?id=8434598
+科幻影视解说,http://maomao.kandiantv.cn/douyu1.php?id=3508304
+开心锤锤,http://maomao.kandiantv.cn/douyu1.php?id=9018297
+释压甩负,http://maomao.kandiantv.cn/douyu1.php?id=7971641
+梁山好汉,http://maomao.kandiantv.cn/douyu1.php?id=6785471
+快乐一天,http://maomao.kandiantv.cn/douyu1.php?id=9236042
+潘金莲武松,http://maomao.kandiantv.cn/douyu1.php?id=8986636
+热血动漫,http://maomao.kandiantv.cn/douyu1.php?id=206858
+凛冬之地,http://maomao.kandiantv.cn/douyu1.php?id=8945323
+高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+王者峡谷~,http://maomao.kandiantv.cn/douyu1.php?id=9360149
+看美剧,http://maomao.kandiantv.cn/douyu1.php?id=8869614
+解说柯南,http://maomao.kandiantv.cn/douyu1.php?id=9065082
+动漫直播,http://maomao.kandiantv.cn/douyu1.php?id=1487654
+黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
+吃米滴虫,http://epg.112114.xyz/douyu/315457
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+周星驰电影,http://epg.112114.xyz/douyu/3990812
+林正英电影1,http://epg.112114.xyz/douyu/218859
+女神金电影,http://epg.112114.xyz/douyu/747764
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+林林影院,http://epg.112114.xyz/douyu/9652323
+怀旧90,http://epg.112114.xyz/douyu/9275635
+国产影片,http://epg.112114.xyz/douyu/5423
+麓山迷踪,http://epg.112114.xyz/douyu/4505431
+高帧影片,http://epg.112114.xyz/douyu/6763930
+米娅电影,http://epg.112114.xyz/douyu/6537888
+小九电影,http://epg.112114.xyz/douyu/7136517
+
+明星电影,#genre#
+周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+吴奇隆,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsSecret=bd7ae9de8372bb7129bd5dd0dfa08491&wsTime=627927ed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+黄渤,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+吴孟达,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsSecret=80c70be5507d226321b851fcb727c64a&wsTime=6279243d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sp
+吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+李连杰1,http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.xs
+许氏三杰系列,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
+林青霞,http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
+周星驰,http://mmitv.top/pltv/yy.php?id=1353881242
+黄渤合集·影帝秀 - yoo,http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
+沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+郭富城,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+葛优电影[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
+漫威宇宙电影[1280*544],http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+经典港整风整蛊电影[1280*720],http://epg.112114.xyz/huya/11602058
+生活大爆炸[1280*720],http://txtest-xp2p.p2p.huya.com/src/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.xs
+死神来了系列[1024*576],http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+搞笑鬼片系列[728*408],http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+中国功夫系列[1280*692],http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+香港黑帮系列[1280*800],http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+搞笑一家人[480*384],http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+三国演义[1280*720],http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+三国演义[1280*720],http://121.51.249.48/tx.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8
+征服[1280*720],http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
+1905电影网[718*414],http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+周星星粤语经典版[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+西游记[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+陈小春版韦小宝[640*480],http://txtest-xp2p.p2p.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.xs
+经典赛车系列[1280*720],http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+家有儿女[640*480],http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+炊事班的故事[352*288],http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
+笑傲江湖,http://epg.112114.xyz/huya/11352937
+今晚80后·年轻人的新态度[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
+好先生[1280*720],http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+经典三国演义[1280*720],http://121.51.249.48/tx.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+洪金宝[1280*720],http://121.51.249.48/tx.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+经典港剧笑嘻嘻[1280*720],http://121.51.249.48/tx.hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8
+许冠英合集[1280*720],http://txtest-xp2p.p2p.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.xs
+最佳拍档开心鬼系列[1280*720],http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
+古墓系列[1280*720],http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+港片追女仔[720*384],http://txtest-xp2p.p2p.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.xs
+葛二蛋成长之路[852*480],http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+林正英[1280*720],https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv
+恐怖电影2[1280*720],http://epg.112114.xyz/douyu/310926
+丧尸鬼片恐怖惊悚[1280*720],http://epg.112114.xyz/douyu/96577
+恐怖影院[1280*720],https://3954-quic.liveplay.myqcloud.com/live/3954_449390391.flv
+许冠英,http://epg.112114.xyz/huya/11601972
+功夫片,http://epg.112114.xyz/huya/11352941
+经典片,http://epg.112114.xyz/huya/11279251
+水浒,http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
+古装剧,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+湾偶像剧,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+林正英搞笑僵尸系,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+康熙微服私访,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+铁齿铜牙纪晓岚,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.xs
+射雕英雄传,http://txtest-xp2p.p2p.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.xs
+喜剧电影,http://txtest-xp2p.p2p.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.xs
+大秦帝国系列,http://txtest-xp2p.p2p.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.xs
+剧场2,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.xs
+白眉大侠,http://txtest-xp2p.p2p.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.xs
+倚天屠龙记(苏友朋版),http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
+宝莲灯,http://txtest-xp2p.p2p.huya.com/src/1340763124-1340763124-5758533769262792704-2777026902-10057-A-0-1.xs
+康熙王朝,http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+镖行天下,http://txtest-xp2p.p2p.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.xs
+剧场4,http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.xs
+剧场4,http://txtest-xp2p.p2p.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.xs
+秀才遇到兵,http://txtest-xp2p.p2p.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.xs
+天龙八部,http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+动画剧场,http://txtest-xp2p.p2p.huya.com/src/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.xs
+咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+龙门镖局,http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+医馆笑传*陈赫,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+杨光快乐生活,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
+鬼吹灯,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsSecret=6de8ed5f7425af1b1caaa346ece30334&wsTime=626f9b47&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4
+鬼吹灯,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+鬼吹灯全集,http://mmitv.top/pltv/yy.php?id=1331686180
+月球陨落,https://vip.lz-cdn1.com/20220402/737_cff81c22/index.m3u8
+南北少林,https://vip.lz-cdn1.com/20220506/4537_1b71c6e1/1200k/hls/index.m3u8
+少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+少林寺,https://vip.lz-cdn2.com/20220416/3540_e6dca841/index.m3u8
+少林俗家弟子,https://vip.lz-cdn1.com/20220413/1843_60e469b4/1200k/hls/index.m3u8
+地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+侦察兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/00f88e15028648cab76156c5635effe2/850.m3u8
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
+战上海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+红孩子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+宝葫芦的秘密,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+董存瑞,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+祖国的花朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
+上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+赛虎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
+刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+犬王,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+特别攻击队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+举起手来-追击阿多丸,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
+南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
+马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
+野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+梁山伯与祝英,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
+奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
+沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
+秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
+穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
+林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
+魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
+国外频道,#genre#
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Bakersfield CA (KERO),https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+ABC News,https://ytb.52sf.ga/jmsytb.m3u8?c=7
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+ABNNEWS,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+ABNsat,http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
+Absolute Reality by WE TV,https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+Afrobeats,https://stream.ecable.tv/afrobeats/index.m3u8
+AJYAL,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+Al Khalij,http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?checkedby:iptvcat.com
+AL MAMLAKA,https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:iptvcat.com
+Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Alaraby 2 TV,https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+Alex Berlin,https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+Alpe d’Huez TV,https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+America's Voice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+AN BOO,http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=
+Anand TV,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+Andrea feat. Fiki - Sex Za Den,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
+Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+Animal Planet,http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
+Animal Planet,http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+Animax,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b2500000.m3u8
+Animax,http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:iptvcat.com
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+Animax,http://210.210.155.35/dr9445/h/h144/01.m3u8?checkedby:iptvcat.com
+Anny One TV,http://mytv.dothome.co.kr/ch/catv/230.php
+Antv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+Antv,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+Antv,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
+Apink,http://124.223.212.38:83/douyu/123351
+Apink,http://epg.112114.xyz/douyu/123351
+Ara - Wish,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
+Arash feat. Helena - One Night In Dubai,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
+Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+Arirang,http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+Arirang,https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+ARTI TV,https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
+Arts Channel,https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+AsiaN,https://apichvod19.seezntv.com/OTM/10200_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Asian Food,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+Asian Food Network,http://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
+Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Atfal Wa Mawaheb,https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+AT-X,https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+Aus Tamil,https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+Baby,https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+Baby,https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
+BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
+BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+Baby First,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+Baby First,http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+Baby First,http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8
+BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+BBC earth,http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
+BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+BBC earth,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC Earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+BBC Lifestyle,https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Lifestyle,http://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Persian,https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,http://78.83.191.18:8000/play/a07a
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+BBC World News,http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+Berita RTM,https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd?checkedby:iptvcat.com
+Big Life TV,https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+Bloomberg (Europe),http://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg (Europe),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+Bloomberg (Europe),https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg Quicktake,https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+Bloomberg Quicktake,https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
+Blue Ant entertaiment,https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
+Blue Ant entertaiment,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+Blue Ant Extreme,https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
+Blue Ant Extreme,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+blueantent,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
+blueantext,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
+Blues,https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+Boomerang,http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
+Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b2500000.m3u8
+Boomerang,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+BRT,https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+BTV,https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+BTV,https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
+BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist.m3u8
+BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist.m3u8
+BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+BTV4,https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist.m3u8
+BTV4,https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
+BTV9,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+BTV9,https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+Bumblebee TV Waterfalls Live,https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+C31 Melbourne (240p),https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+CAMAU,https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8?
+Campus TV Magdeburg,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+Canada One,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+Canal 24 horas,https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
+Canal San Roque,https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+Carry TV,http://mytv.dothome.co.kr/ch/catv/264.php
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+CBeebies,http://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
+CBeebies,https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+CBeebies Asia (Vietnamese dub),https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBN Rio,https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+CBN S?o Paulo,https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+Cinemax,http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+Cinemax,https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+Cinemax,https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+Cinemax Vit Nam,https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+Clara Mae ft. Jake Miller,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+CLASS TV MODA,https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
+Classic,https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+CMC-USA,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC,http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+CNBC,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+CNN,http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8?
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN International Germany,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+Congress,http://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+Crackle(XUMO),http://crackle-xumo.amagi.tv/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+cum4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
+Da Nang TV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+Da Vinci Kids,http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+Da Vinci Kids Learning,https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+DAN TV,http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+DANANG1,https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8?
+Dance,https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
+Dark Matter TV Brazil,https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+DAVINCI,https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+Desi Beats HD,http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+Deutsche Welle,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Dhammasapha TV,https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
+Diez TV,https://streaming.cloud.innovasur.es/mmj/index.m3u8
+Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+Discovery,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
+Discovery,http://mytv.dothome.co.kr/ch/catv/285.php
+Discovery,http://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
+Discovery,https://apichvod19.seezntv.com/OTM/10840_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Discovery Asia,http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+Distrito TV,https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+DLTV 1,https://dltv-live-edge.catcdn.cloud/dltv01.m3u8
+DLTV 3,https://dltv-live-edge.catcdn.cloud/dltv03.m3u8
+DLTV 4,https://dltv-live-edge.catcdn.cloud/dltv04.m3u8
+DLTV 5,https://dltv-live-edge.catcdn.cloud/dltv05.m3u8
+DLTV 6,https://dltv-live-edge.catcdn.cloud/dltv06.m3u8
+DLTV 7,https://dltv-live-edge.catcdn.cloud/dltv07.m3u8
+DLTV 8,https://dltv-live-edge.catcdn.cloud/dltv08.m3u8
+DLTV 9,https://dltv-live-edge.catcdn.cloud/dltv09.m3u8
+DLTV 10,https://dltv-live-edge.catcdn.cloud/dltv10.m3u8
+DLTV 11,https://dltv-live-edge.catcdn.cloud/dltv11.m3u8
+DLTV 12,https://dltv-live-edge.catcdn.cloud/dltv12.m3u8
+DLTV 13,https://dltv-live-edge.catcdn.cloud/dltv13.m3u8
+DLTV 14,https://dltv-live-edge.catcdn.cloud/dltv14.m3u8
+DLTV 15,https://dltv-live-edge.catcdn.cloud/dltv15.m3u8
+DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+DN1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+DN2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+DONGNAI1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8?
+DONGNAI2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8?
+Dreamworks,https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b2500000.m3u8
+Dreamworks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+DreamWorks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+Dreamworks Channel Asia (Vietnamese dub),https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+DTV,https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
+DUBAI RACING,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
+DUBAI RACING,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
+Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+DUBAI SPORTS,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+Dubai Sports 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+DW,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW News,https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+EBS1,http://ebsonair.flive.skcdn.com/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr:1935/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS2,http://ebsonair.flive.skcdn.com/ebs2familypc/familypc1m/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+EBS-KIDS,http://ebsonair.flive.skcdn.com/ebsufamilypc/familypc1m/playlist.m3u8
+Ecran TV,http://51.210.199.40/hls/stream.m3u8
+EDGEsport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+EG | Al Horreya,http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
+Elbekanal Sch?nebeck,http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+Elbeshara GTV,http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/md051
+ELEVEN2,rtmp://59.124.75.150/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
+ELTA体育1,rtmp://59.124.75.138/sat/md011
+ELTA体育2,rtmp://59.124.75.138/sat/md021
+ELTA体育3,rtmp://59.124.75.138/sat/md041
+ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+EMCi,https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
+EMCI TV,https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
+ESTV,https://estv-rakuten.amagi.tv/playlist.m3u8
+Eurodance 90 HD,https://eurodance90.catcast.tv/content/36987/index.m3u8
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+Euronews,https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+Euronews English,https://euronews.alteox.app/hls/en_stream.m3u8?checkedby:iptvcat.com
+Eurosport1 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/228/index.m3u8
+Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+Eurosport2 HD,http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
+Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+Eurosport2 HD,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2
+Eurosport2 HD,http://81.177.139.240:8000/play/a00c/index.m3u8
+EXID - Ah Yeah,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+Fashion,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+Fashion,https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
+Fashion One HD,http://193.33.240.8:8080/fashion_one_hd/index.m3u8
+Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+Fibracat TV,https://cdn02.fibracat.cat/fibracattv/index.m3u8
+FISHINGTV,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+Folk,https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox News Radio,https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+France 24,http://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
+FRANCE24,https://ytb.52sf.ga/jmsytb.m3u8?c=13
+Francophonie24,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.com
+H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+HAIPHONG,https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8?
+HANOI2,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8?
+Hanoicab 2,http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
+HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+HGTV,https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+Highkick,http://mytv.dothome.co.kr/ch/catv/25.php
+Hip Hop,https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+History,http://187.85.237.32:8825/ipvt_007
+Hits,https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+Horse and Country,https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
+HTV,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+HTV Key,http://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+HTV1,http://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+HTV3,http://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+HTV9,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+Humor Mill,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+Hustler,http://193.33.240.8:80/hustler_hd/index.m3u8
+Hustler,http://193.33.240.8:80/hustler_hd/video.m3u8
+Hustler,http://78.83.191.18:8000/play/a078
+Hyuna - Lip & Hip   Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+IB体育,https://apichvod19.seezntv.com/OTM/10220_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+IB-体育,http://mytv.dothome.co.kr/ch/catv/253.php
+IGI,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+IGN,https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+iHQ电视剧,https://apichvod19.seezntv.com/OTM/10800_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+IHQ电视剧,http://mytv.dothome.co.kr/ch/catv/256.php
+iMode,https://juyunlive.juyun.tv/live/24950198.m3u8?checkedby:iptvcat.com
+imode时尚,https://juyunlive.juyun.tv/live/24950198.m3u8
+imode时尚,http://juyunlive.juyun.tv/live/24950198.m3u8
+IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+Jason Derulo - The Other Side,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+Jazz,https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
+Jewellery Maker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+JinSoul- Singing in the Rain,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+JSTV,http://live.ynurl.com/video/s10045-JSTV/index.m3u8
+JTBC,https://apichvod19.seezntv.com/OTM/10010_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC,http://106.246.182.11:9981/stream/channelid/84
+JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
+JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
+JTBC2,https://apichvod19.seezntv.com/OTM/10780_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC4,https://apichvod19.seezntv.com/OTM/10890_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
+JTBC高尔夫,https://apichvod19.seezntv.com/OTM/10280_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+JTBC高尔夫,http://mytv.dothome.co.kr/ch/catv/248.php
+JTBC体育,http://mytv.dothome.co.kr/ch/catv/249.php
+JTBC体育,https://apichvod19.seezntv.com/OTM/10700_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.com
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+KBS World,http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
+KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
+KBS1,https://apichvod19.seezntv.com/OTM/10170_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS2,http://222.109.117.27:9981/stream/channelid/123020099
+KBS2,http://220.95.92.160:9981/stream/channelid/280136412
+KBS2,https://apichvod19.seezntv.com/OTM/10140_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS电视剧,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
+KBS电视剧,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS故事,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS故事,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
+KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS生活,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
+KBS生活,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS体育,https://apichvod19.seezntv.com/OTM/10410_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+KBS体育,http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
+KBS体育,http://mytv.dothome.co.kr/ch/catv/243.php
+KBS新闻,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
+KBS新闻,http://mytv.dothome.co.kr/ch/catv/1.php
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV ?? CH05,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+Kesimpta,https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+KHANHHOA,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8?
+Kids,https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+KITE Victers (Kerala),https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+KIX,http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+KIX,https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
+KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
+KOK FIGHT,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+Korean Election TV,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index.m3u8
+KPop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+K-POP,https://apichvod19.seezntv.com/OTM/10960_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+K-POP,http://mytv.dothome.co.kr/ch/catv/286.php
+kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+KShopping,https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LSTime电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+LSTV,http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+LTV,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+M24,http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com
+MavTV Select,https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+MBC,https://apichvod19.seezntv.com/OTM/10540_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MBC,https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+MBC,http://mytv.dothome.co.kr/ch/public/21.php
+MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/chunklist_w1563394527.m3u8
+MBC Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+MBC_every1,http://106.246.182.11:9981/stream/channelid/29
+MBC-NET,http://mytv.dothome.co.kr/ch/catv/28.php
+MBC体育,https://apichvod19.seezntv.com/OTM/10430_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MBC体育,http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live53
+MBC体育,http://mytv.dothome.co.kr/ch/catv/242.php
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,http://106.246.182.11:9981/stream/channelid/88
+MBN,http://mytv.dothome.co.kr/ch/catv/214.php
+MBN,https://apichvod19.seezntv.com/OTM/10020_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MEKAMELEEN,https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com
+Metro Globe Network (1080p) [Not 24/7],https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8?checkedby:iptvcat.com
+MNB world,https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+Mnet,http://106.246.182.11:9981/stream/channelid/62
+Mnet,http://mytv.dothome.co.kr/ch/catv/224.php
+Mnet,https://apichvod19.seezntv.com/OTM/10150_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+MOMO综合,rtmp://59.124.75.138/sat/tv761
+MOMO综合,rtmp://59.124.75.138:1935/sat/tv761
+MOMO综合,rtmp://59.124.75.150/sat/tv761
+Movie,https://apichvod19.seezntv.com/OTM/11090_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Movie,http://mytv.dothome.co.kr/ch/catv/232.php
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8?checkedby:iptvcat.com
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.com
+MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV,http://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Vietnam (576p),https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+Music Top,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+MuzSojuz,http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:iptvcat.com
+MyTime movie network Brazil,https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+National Geographic Asia,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NBC News Now Event 1,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.com
+New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+New Kid TV,https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+NewKID1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
+NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+NewKID3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+NGWILD,https://apichvod19.seezntv.com/OTM/10230_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?checkedby:iptvcat.com
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK World Japan,https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+NHK World Japan,https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:iptvcat.com
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK华语,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8?
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NTV,https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+OAN,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+OBS,https://apichvod19.seezntv.com/OTM/10510_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+OBS,http://mytv.dothome.co.kr/ch/catv/281.php
+OBS比赛,http://59.23.231.102:1935/live/obsstream1/myStream.sdp/playlist.m3u8
+OCN,http://106.246.182.11:9981/stream/channelid/60
+OCN,https://apichvod19.seezntv.com/OTM/10950_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+OCN,http://121.136.153.200:9981/stream/channelid/35
+OH MY GIRL - BUNGEE (Fall in Love),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+OKEY,https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd?checkedby:iptvcat.com
+OL!FE,http://mytv.dothome.co.kr/ch/catv/254.php
+OL!FE,https://apichvod19.seezntv.com/OTM/10320_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+Orange TV,http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+Outdoor,http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
+Outdoor,https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+Outdoor America,https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+Outside TV,https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+Perú Channel,https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+Pop,https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+PRESUMIENDO MEXICO,https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w1924817410_b1428000_sleng.m3u8
+Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+PunktUM,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+Punktum S?dharz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
+QPVN,https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+QUANGBINH,https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8?
+QUANGNGAI,https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+Qu?c H?i,http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+QVC UK (540p),http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+RACING,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
+RAN1,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Redlight HD,http://109.200.130.123:7032/play/353
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/tracks-v1a1/index.m3u8
+Relax,https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+Remember,https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+Retro Plus,https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+RFH Harz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+RFH TV,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
+rheinmaintv,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+Rock,https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+Rock Entertainment,http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
+Rock Extreme,http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT en Espa?ol,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+RTHK31,http://50.7.220.74:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
+RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8?WithCaption
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption
+Running Man-2,http://epg.112114.xyz/douyu/131977
+Running Man-2,http://124.223.212.38:83/douyu/131977
+Running Man-2,https://918dc7ace8f2bd063a86686619563602.v.smtcdns.net/akm-tct.douyucdn.cn/live/131977rb5GOrl6uS.flv
+SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
+SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
+SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+SBS,http://222.109.117.27:9981/stream/channelid/2096368258
+SBS,https://apichvod19.seezntv.com/OTM/10550_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476
+SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+SBS F!L,https://apichvod19.seezntv.com/OTM/10930_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS F!L,http://mytv.dothome.co.kr/ch/catv/284.php
+SBS_funE,http://han.ddkdxmkj.com/api/sbs.php?id=4
+SBS_funE,http://itskoi.dothome.co.kr/sbs.php?id=S04
+SBS_funE,http://106.246.182.11:9981/stream/channelid/27
+SBS_MTV,http://itskoi.dothome.co.kr/sbs.php?id=S09
+SBS_MTV,http://han.ddkdxmkj.com/api/sbs.php?id=9
+SBS_Plus,http://han.ddkdxmkj.com/api/sbs.php?id=3
+SBS_Plus,http://itskoi.dothome.co.kr/sbs.php?id=S03
+SBS_Plus,http://106.246.182.11:9981/stream/channelid/32
+SBS高尔夫,https://apichvod19.seezntv.com/OTM/10160_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS高尔夫,http://mytv.dothome.co.kr/ch/catv/247.php
+SBS高尔夫,http://han.ddkdxmkj.com/api/sbs.php?id=5
+SBS高尔夫,http://itskoi.dothome.co.kr/sbs.php?id=S05
+SBS体育,https://apichvod19.seezntv.com/OTM/10420_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SBS体育,http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
+SBS体育,http://mytv.dothome.co.kr/ch/catv/241.php
+SEEZN,https://apichvod19.seezntv.com/OTM/11770_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Sharjah TV,https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com
+Sharqiya from Kalba,https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
+Sidewalks,https://30a-tv.com/sidewalks.m3u8
+SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
+SIPSE TV CHETUMAL,https://webprod.sipse.com.mx:8080/show/merida.m3u8
+SKI TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+Sky News,https://ytb.52sf.ga/jmsytb.m3u8?c=11
+SKY NEWS ARABIA,https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com
+Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+SKY体育,http://mytv.dothome.co.kr/ch/catv/246.php
+SKY体育,https://apichvod19.seezntv.com/OTM/10440_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Space Channel,https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+Spanish,https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+SPORT | Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+SPOTV,http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
+SPOTV,http://mytv.dothome.co.kr/ch/catv/244.php
+SPOTV,https://apichvod19.seezntv.com/OTM/10070_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SPOTV ON,http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
+SPOTV2,https://apichvod19.seezntv.com/OTM/11990_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+SPOTV2,http://mytv.dothome.co.kr/ch/catv/245.php
+SPOTV2,http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+Stingray Everything 80s,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+STV,https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
+Sukan RTM,https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd?checkedby:iptvcat.com
+Super,http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
+SYRIA,https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com
+Takbeer TV,https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+TalkTV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+Tamil TV,https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+Tastemade Brasil,https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+TAYNINH11,https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8?
+TBC,http://221.157.125.239:1935/live/psike/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_mobile_360.smil/playlist.m3u8
+The Beach Show,https://30a-tv.com/beachy.m3u8
+The Box UK (576p),https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+Time Line,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+TITV,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+TLC,http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
+TLC,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+TV BRICS Portuguese,https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+TV1,https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd?checkedby:iptvcat.com
+TV2,https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd?checkedby:iptvcat.com
+TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+TV5World Asia,http://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
+TV6,https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd?checkedby:iptvcat.com
+TV38 Südost-Niedersachen,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+TVB RICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS欢乐,rtmp://59.124.75.150/sat/tv421
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+TVN,http://mytv.dothome.co.kr/ch/catv/221.php
+TVN,https://apichvod19.seezntv.com/OTM/10050_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN,http://106.246.182.11:9981/stream/channelid/91
+TVN-SHOW,https://apichvod19.seezntv.com/OTM/10130_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN-SHOW,http://mytv.dothome.co.kr/ch/catv/222.php
+TVN电视剧,https://apichvod19.seezntv.com/OTM/10110_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN电视剧,http://mytv.dothome.co.kr/ch/catv/226.php
+TVN故事,https://apichvod19.seezntv.com/OTM/10120_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN故事,http://mytv.dothome.co.kr/ch/catv/223.php
+TVN体育,https://apichvod19.seezntv.com/OTM/10100_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+TVN体育,http://mytv.dothome.co.kr/ch/catv/227.php
+TVWorkNet,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
+ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+VOA,https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
+VTC1,https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b2500000.m3u8
+VTC2,https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+VTC4,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+VTC4,https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+VTC4,http://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
+VTC5,http://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+VTC6,http://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+VTC7,http://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
+VTC8,http://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
+VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+WeatherNation Atlanta,https://siloh.pluto.tv/lilo/production/WeatherNation/ATL/master.m3u8
+WeatherNation Dallas,https://siloh.pluto.tv/lilo/production/WeatherNation/DFW/master.m3u8
+WeatherNation Houston,https://siloh.pluto.tv/lilo/production/WeatherNation/Houston/master.m3u8
+WeatherNation New York,https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+Wild Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/88b835fe-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung
+World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
+World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+Wow,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+XSTV,https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+YCTV,http://tvpull.dxhmt.cn/tv/11481-3.m3u8
+YTN,http://mytv.dothome.co.kr/ch/catv/215.php
+YTN,http://106.246.182.11:9981/stream/channelid/57
+YTN,https://apichvod19.seezntv.com/OTM/10300_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+YTN,http://210.92.207.38:40001
+YTV,https://yenbaitv.org.vn/hls/livestream.m3u8
+YYY,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+ZEE ALWAN,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+ZEE ALWAN,http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541&checkedby:iptvcat.com
+ZEE ALWAN,http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com
+ZEE ALWAN,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com
+Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+Авторадио,https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+Арис 24,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+Вечерняя Москва,https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
+Вместе-РФ,http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+НВК Саха,http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+Небеса ТВ7,https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+Новороссия ТВ,http://ott.inmart.tv:8081/19/index.m3u8
+НТМ (Народное телевидение Мордовии),https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+НТС (Севастополь),https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+Первый Музыкальный Канал HD,http://rtmp.one.by:1300
+Первый Музыкальный Канал Россия HD,http://rtmp.one.by:2300
+РБК,https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
+Тивиком (Улан-Удэ),http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+阿里郎,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+朝鲜,https://apichvod19.seezntv.com/OTM/10040_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+朝鲜,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+朝鲜,http://106.246.182.11:9981/stream/channelid/90
+朝鲜,http://119.197.107.139:9981/stream/channelid/46
+朝鲜,http://mytv.dothome.co.kr/ch/catv/213.php
+朝鲜2,http://106.246.182.11:9981/stream/channelid/102
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8?WithCaption
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+电影天堂,https://apichvod19.seezntv.com/OTM/11010_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+电影天堂,http://mytv.dothome.co.kr/ch/catv/231.php
+东风37,http://61.219.170.95:18560/.m3u8
+东森财经,rtmp://59.124.75.138/sat/tv571
+东森财经美洲,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+东森超视,rtmp://59.124.75.138:1935/sat/tv331
+东森超视美洲,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+东森新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=9
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+恩典时分,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch20-2.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+非洲电视,http://210.97.86.161:9981/stream/channelid/348320263
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰时政,http://liveplay.rednet.cn/live/fenghuang_tv_cq4jaka.m3u8
+凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+凤凰香港,http://183.207.249.35/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDX
+凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?WithCaption
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?WithCaption
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?WithCaption
+凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+韩联社,https://apichvod19.seezntv.com/OTM/10350_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+韩联社,http://mytv.dothome.co.kr/ch/catv/216.php
+韩联社,http://106.246.182.11:9981/stream/channelid/56
+好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?WithCaption
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+夏季时装秀迈阿密泳装周,https://vd3.bdstatic.com/mda-kd9p9nw65235amji/hd/mda-kd9p9nw65235amji.mp4
+香港电台,http://live.cooltv.top/tv/tvb.php?id=3
+香港电台,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+香港电台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
+新加坡U,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+星空卫视,http://50.7.220.74:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+幸福来敲门,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch43-2.m3u8
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+音乐节目-2,http://epg.112114.xyz/douyu/603070
+音乐节目-2,http://124.223.212.38:83/douyu/603070
+印度高清电影,http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+有线,rtmp://59.124.75.138:1935/sat/hk011
+有线18,rtmp://59.124.75.138:1935/sat/hk041
+有线财经资讯,https://api.leonardpark.dev/live/icable/108
+有线新闻,https://api.leonardpark.dev/live/icable/109
+有线直播新闻,https://api.leonardpark.dev/live/icable/110
+原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+真情部落格,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+真情部落格,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+真情之夜,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
+韩国歌团,#genre#
+歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+歌团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+歌团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+歌团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+歌团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+歌团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+歌团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+歌团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+歌团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+歌团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+歌团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+歌团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+歌团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+歌团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+歌团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+歌团021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+歌团022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+歌团023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+歌团024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+歌团025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+歌团026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+歌团027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+歌团028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+歌团029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+歌团030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+歌团031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+歌团032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+歌团033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+歌团034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+歌团035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+歌团036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+歌团037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+歌团038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+歌团039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+歌团040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+歌团041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+歌团042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+歌团043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+歌团044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+歌团045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+歌团046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+歌团047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+歌团048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+歌团049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+歌团050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+歌团051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+歌团052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+歌团053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+歌团054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+歌团055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+歌团056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+歌团057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+歌团058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+歌团059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+歌团060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+歌团061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+歌团062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+歌团063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+歌团064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+歌团065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+歌团066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+歌团067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+歌团068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+歌团069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+歌团070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+歌团071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+歌团072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+歌团074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+歌团075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+歌团076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+歌团077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+歌团078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+歌团079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+歌团080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+歌团081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+歌团082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+歌团083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+歌团084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+歌团085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+歌团086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+歌团087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+歌团088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+歌团089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+歌团090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+歌团091,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+歌团092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+歌团093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+歌团094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+歌团095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+歌团096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+歌团097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+歌团098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+歌团099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+歌团100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+歌团101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+歌团102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+歌团103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+歌团104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+歌团105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+歌团106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+歌团107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+歌团108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+歌团109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+歌团110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+歌团111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+歌团112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+歌团113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+歌团114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+歌团115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+歌团116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+歌团117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+歌团118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+歌团119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+歌团120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+歌团121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+歌团122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+歌团123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+歌团125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+歌团126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+歌团127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+歌团128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+歌团129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+歌团130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+歌团131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+歌团132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+歌团133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+歌团134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+歌团135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+歌团136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+歌团137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+歌团138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+歌团139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+歌团140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+歌团141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+歌团142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+歌团143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+歌团145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+歌团146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+歌团147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+歌团148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+歌团149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+歌团150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+歌团151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+歌团152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+歌团153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+太妍39,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
+摔角,#genre#
+RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
+MASFIGHT世界大奖赛,http://111.62.156.15/tx.flv.huya.com/src/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.flv?wsSecret=e5abe49f1dffe5d3fb3ad1b80b6e621a&wsTime=6283a6cc&u=0&seqid=16527086849687740&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
+WWE_RAW+经典大战群星擂台赛,http://111.62.156.15/tx.flv.huya.com/src/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.flv?wsSecret=81de112f831b291d27a2e27620b6a672&wsTime=6283a6b6&u=0&seqid=16527086629491060&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&t=102
+WWE清流1路,http://txtest-xp2p.p2p.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs?wsSecret=23e937bf5f8a82d5367679fbd94c00be&wsTime=6246cb81&u=0&seqid=16487203839200000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
+日本向阳花精彩,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
+小溪的柔韧空间+妹子群殴时刻+女人的战争,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
+格斗迷_小亮+地域牢笼！铁笼赛专场,http://111.62.156.15/tx.flv.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.flv?wsSecret=7c62b76e9390f51ccf2453b3fbefc735&wsTime=6283a6b6&u=0&seqid=16527086620855680&ctype=tars_mp&fs=bgct&t=102
+格斗迷阿斌+顶级猎犬lou拳格斗+重口厮杀,http://111.62.156.15/tx.flv.huya.com/src/1099531627819-1099531627819-85899530603593728-2199063379094-10057-A-0-1.flv?wsSecret=39cf9cf9f6658c77aba60a74ca5b323a&wsTime=6283a6cb&u=0&seqid=16527086838900052&ctype=tars_mp&fs=bgct&t=102
+毒蛇兰迪合集我只爱RKO,http://111.62.156.15/tx.flv.huya.com/src/1099531728845-1099531728845-86333433969639424-2199063581146-10057-A-0-1.flv?wsSecret=345faaa2e6135dd94d380a1e1181d00b&wsTime=6283a6c2&u=0&seqid=16527086747419068&ctype=tars_mp&fs=bgct&t=102
+拳擊,http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
+拳击体育馆内赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2399154152386-10057-A-0-1.xs?wsSecret=7d9542f8af23ceb5668d43736586d622&wsTime=6246cbb8&u=0&seqid=16487204385550000&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&t=103
+武术世界,http://39.136.48.53:8089/PLTV/88888888/224/3221226356/1.m3u8
+NewTV武博世界,http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
+WWE巨石强森+流血暴力时代,https://epg.112114.xyz/huya/19197456
+咖喱摔角王子+超尷尬「嘴炮拳王,http://111.62.156.15/tx.flv.huya.com/src/1099531627822-1099531627822-85899543488495616-2199063379100-10057-A-0-1.flv?wsSecret=257313d6546a3d4bae9fe745cb47da07&wsTime=6283a6c6&u=0&seqid=16527086783103362&ctype=tars_mp&fs=bgct&t=102
+WWE_SmackDown+大布回归李霞露面,http://111.62.156.15/tx.flv.huya.com/src/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.flv?wsSecret=06ef14ade0034acab5556dd0f282e063&wsTime=6283a6bb&u=0&seqid=16527086675511370&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
+拳迷豪哥 超震撼裸拳擂台对决 体育拳拳到肉 血沫横飞,http://txtest-xp2p.p2p.huya.com/src/1099531627808-1099531627808-85899483358953472-2199063379072-10057-A-0-1.xs?wsSecret=2e0deb0566a05048cdfb649b6b9fafb8&wsTime=6246cbb7&u=0&seqid=16487204372300000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
+WWE精彩视频秀李霞,http://txtest-xp2p.p2p.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs?wsSecret=8070de640979f458f93712105d1e7dd9&wsTime=6246cbc1&u=0&seqid=16487204475860000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
+T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p2p.huya.com/src/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.xs?wsSecret=4e346b65c0d86c6a792434be0ea74bd5&wsTime=6246cbe5&u=0&seqid=16487204839750000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
